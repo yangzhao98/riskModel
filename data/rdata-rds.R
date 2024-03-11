@@ -7,4 +7,5 @@ vdata <- readRDS(paste(getwd(),"/vdata.rds",sep=""))
 usethis::use_data(vdata, overwrite = TRUE)
 
 # usethis::load_all()
-usethis::use_data_raw()
+# usethis::use_data_raw("rdata")
+# usethis::use_data_raw("vdata")
