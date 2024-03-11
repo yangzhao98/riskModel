@@ -4,7 +4,7 @@ The *riskModel* pkg is developed based on several publicly available packages an
 
 # Collections of risk prediction models
 
-## BMJ series papers
+## 1. BMJ series papers
 
 * **2024** 
   * [Part 1. Evaluation of clinical prediction models: from development to external validation](https://www.bmj.com/content/384/bmj-2023-074819), [R code]( https://github.com/gscollins1973/validationCRASH)
@@ -40,7 +40,7 @@ The *riskModel* pkg is developed based on several publicly available packages an
   * 2012 *Heart* [Part 2. Risk prediction models: II. External validation, model updating, and impact assessment](https://heart.bmj.com/content/98/9/691)
 
 
-## Methodological papers
+## 2. Methodological papers
 
 * 2022 *Int J Epidemiol* [Lessons learnt when accounting for competing events in the external validation of time-to-event prognostic models](https://academic.oup.com/ije/article/51/2/615/6468864?login=false), [R code](https://github.com/survival-lumc/ValidationCompRisks)
 
@@ -57,19 +57,19 @@ The *riskModel* pkg is developed based on several publicly available packages an
 * 2001 *J Clin Epidemiol* [Internal validation of predictive models: efficiency of some procedures for logistic regression analysis](https://linkinghub.elsevier.com/retrieve/pii/S0895435601003419)
 
 
-## Advanced topics
+## 3. Advanced topics
 
-### Predictors selections
+### 3.1 Predictors selections
 
 * 2023 *J Clin Epidemiol* [Practical guide to the typical analysis of prognostic factors and biomarkers without the use of P-values](https://linkinghub.elsevier.com/retrieve/pii/S0895435623000768)
 
 * 2021 *J Stat Softw* [glmulti: An R package for easy automated model selection with (Generalized) linear models](https://www.jstatsoft.org/article/view/v034i12), [R code](https://cran.r-project.org/web/packages/glmulti/index.html)
 
-### Super learner
+### 3.2 Super learner
 
 * 2018 *Epidemiology* [Using super learner prediction modeling to improve high-dimensional propensity score estimation](https://journals.lww.com/epidem/fulltext/2018/01000/using_super_learner_prediction_modeling_to_improve.13.aspx), [R code 1](https://github.com/lendle/hdps); [R code 2](https://github.com/lendle/TargetedLearning.jl)
 
-### Dynamic prediction
+### 3.3 Dynamic prediction
 
 * 2021 *Am J Epidemiol* [Dynamical modeling as a tool for inferring causation](https://academic.oup.com/aje/article/191/1/1/6358337?login=false)
 
@@ -81,7 +81,7 @@ The *riskModel* pkg is developed based on several publicly available packages an
 
 * 2013 *Biometrics* [Dynamic pseudo-observations: a robust approach to dynamic prediction in competing risks](https://academic.oup.com/biometrics/article/69/4/1043/7492355?login=false), [R code](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/biometrics/69/4/10.1111_biom.12061/5/biom12061-sm-0001-supinfo-s1.pdf?Expires=1713186954&Signature=1edWKfgynE-cL-7qyr7fHvS8izB29WPN89pDi4qSk5548tyLZbFfxUnoT1BwDuB~RqS8ukHv2-6lw2FqZguU60uMrY8D-lZ02xalQWjPd0LmYlw1SUblFbetY58v~6tPE2~pcFspHXUnGaN8rZVGuiSpv4Acb4Vkpp4bPtqNh8Xicu376oiXCV9YRWmWVggda3jx5gQ9Sp2rG3OTCkjXsVrL1jxVltdqeyBOBoUpuStSpFK-r-~4c5ChijDim49y4LD2OxNYavA0C0hDeqdSt9hnLJDiir0AzZKNF4yU9YrMC5TMGyL0PvQaE3oOm7rTIPqu14FkSjWZBNlZUZHTcA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
-### Prediction of counterfactual risk
+### 3.4 Prediction of counterfactual risk
 
 * 2022 *Eur J Epidemiol* [Predicting counterfactual risks under hypothetical treatment strategies: an application to HIV](https://link.springer.com/article/10.1007/s10654-022-00855-8)
 
@@ -91,20 +91,20 @@ The *riskModel* pkg is developed based on several publicly available packages an
 
 * 2020 *Eur J Epidemiol* [Prediction meets causal inference: the role of treatment in clinical prediction models](https://link.springer.com/article/10.1007/s10654-020-00636-1)
 
-### Lifetime risk
+### 3.5 Lifetime risk
 
 * 2021 *Eur J Epidemiol* [A comparison of statistical methods to predict the residual lifetime risk](https://link.springer.com/article/10.1007/s10654-021-00815-8), [R code](https://github.com/s-conner/lifetimerisk)
 
 * 2000 *Stat Med* [Computing estimates of incidence, including lifetime risk: Alzheimer’s disease in the framingham study. the practical incidence estimators (pie) macro](https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-0258(20000615/30)19:11/12%3C1495::AID-SIM441%3E3.0.CO;2-E)
 
 
-### Multistate model
+### 3.6 Multistate model
 
 * 2016 *Am J Epidemiol* [Multistate model to predict heart failure hospitalizations and all-cause mortality in outpatients with heart failure with reduced ejection fraction: Model derivation and external validation](https://www.ahajournals.org/doi/10.1161/CIRCHEARTFAILURE.116.003146)
 
-## Well-established risk prediction models
+## 4 Well-established risk prediction models
 
-### Framingham Heart Study risk scores
+### 4.1 Framingham Heart Study risk scores
 
 * 1988 *Circulation* Original FHS CHD score [Prediction of coronary heart disease using risk factor categories](https://www.ahajournals.org/doi/10.1161/01.CIR.97.18.1837)
 
@@ -115,7 +115,7 @@ The *riskModel* pkg is developed based on several publicly available packages an
 * 2009 *Circulation* FHS 30-year CVD risk prediction model [Predicting the 30-year risk of cardiovascular disease: The Framingham Heart Study](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.108.816694)
 
 
-### QRISK
+### 4.2 QRISK
 
 * 2007 *BMJ* QRISK [Derivation and validation of QRISK, a new cardiovascular disease risk score for the United Kingdom: prospective open cohort study](https://www.bmj.com/content/335/7611/136)
 
@@ -128,7 +128,7 @@ The *riskModel* pkg is developed based on several publicly available packages an
 * 2024 *Eur J Prev Cardiol* QRISK2-PRS [A polygenic risk score added to a QRISK®2 cardiovascular disease risk calculator demonstrated robust clinical acceptance and clinical utility in the primary care setting](https://academic.oup.com/eurjpc/advance-article/doi/10.1093/eurjpc/zwae004/7577877)
 
 
-### CMCS Risk prediction models
+### 4.3 CMCS Risk prediction models
 
 * 2003 *中华心血管病杂志* [中国35~64岁人群心血管病危险因素与发病危险因素预测模型的前瞻性研究](https://rs.yiigle.com/CN115399202004/978228.htm)
 
@@ -138,10 +138,12 @@ The *riskModel* pkg is developed based on several publicly available packages an
 
 * 2016 *J Hypertens* [Lifetime risk of stroke in young-aged and middle-aged Chinese population: the Chinese Multi-Provincial Cohort Study](https://journals.lww.com/jhypertension/fulltext/2016/12000/lifetime_risk_of_stroke_in_young_aged_and.19.aspx)
 
+* 2018 *中华心血管病杂志* [中国动脉粥样硬化性心血管病发病危险评估的新方案](https://rs.yiigle.com/CN2021/1027278.htm)
+
 * 2023 *CVIA* [Addition of Risk-enhancing Factors Improves Risk Assessment of Atherosclerotic Cardiovascular Disease in Middle-aged and Older Chinese Adults: Findings from the Chinese Multi-provincial Cohort Study](https://www.scienceopen.com/hosted-document?doi=10.15212/CVIA.2023.0036)
 
 
-### Pooled Cohort ASCVD Risk Equations
+### 4.4 Pooled Cohort ASCVD Risk Equations [ASCVD Risk Calculator](https://clincalc.com/cardiology/ascvd/pooledcohort.aspx)
 
 * 2013 *Circulation* PCE [2013 ACC/AHA guideline on the assessment of cardiovascular risk: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines](https://www.ahajournals.org/doi/full/10.1161/01.cir.0000437741.48606.98)
 
@@ -154,7 +156,7 @@ The *riskModel* pkg is developed based on several publicly available packages an
 * 2021 *JAMA Cardiol* PCE by self-reported physical activity [Performance of the American Heart Association/American College of Cardiology Pooled Cohort Equations to Estimate Atherosclerotic Cardiovascular Disease Risk by Self-reported Physical Activity Levels](https://jamanetwork.com/journals/jamacardiology/fullarticle/2779383) 
 
 
-### China-PAR
+### 4.5 China-PAR, [心脑血管风险评估网站](https://cvdrisk.com.cn/ASCVD/Eval)
 
 * 2016 *Circulation* China-PAR ASCVD risk [Predicting the 10-Year Risks of Atherosclerotic Cardiovascular Disease in Chinese Population: The China-PAR Project (Prediction for ASCVD Risk in China)](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.116.022367)
 
@@ -164,13 +166,19 @@ The *riskModel* pkg is developed based on several publicly available packages an
 
 * 2022 *Eur Heart J* China-PAR PRS [A polygenic risk score improves risk stratification of coronary artery disease: a large-scale prospective Chinese cohort study](https://academic.oup.com/eurheartj/article/43/18/1702/6534984?login=false)
 
-### SCORE project
+* 2019 *中国循环杂志* [中国心血管病风险评估和管理指南](https://chinacirculation.org/UploadFile/SiteContent/FJList/1ncfl2hj.pdf)
+
+
+### 4.6 SCORE project
 
 * 2003 *Eur Heart J* SCORE [Estimation of ten-year risk of fatal cardiovascular disease in Europe: the SCORE project](https://academic.oup.com/eurheartj/article/24/11/987/427645?login=false)
 
 * 2021 *Eur Heart J* [SCORE2 risk prediction algorithms: new models to estimate 10-year risk of cardiovascular disease in Europe](https://academic.oup.com/eurheartj/article/42/25/2439/6297709)
 
-### Others 
+* 2021 *Eur Heart J* [SCORE2-OP risk prediction algorithms: estimating incident cardiovascular event risk in older persons in four geographical risk regions](https://academic.oup.com/eurheartj/article/42/25/2455/6297711?login=false)
+
+
+### 4.7 Others 
 
 * 2016 *Eur Heart J* CHD GRS [Genomic prediction of coronary heart disease](https://doi.org/10.1093/eurheartj/ehw450)
 
