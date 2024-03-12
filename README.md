@@ -102,6 +102,12 @@ The *riskModel* pkg is developed based on several publicly available packages an
 
 * 2016 *Am J Epidemiol* [Multistate model to predict heart failure hospitalizations and all-cause mortality in outpatients with heart failure with reduced ejection fraction: Model derivation and external validation](https://www.ahajournals.org/doi/10.1161/CIRCHEARTFAILURE.116.003146)
 
+### 3.7 Deep learning 
+
+* 2024 *arXiv* [Deep learning for survival analysis: A review](https://arxiv.org/abs/2305.14961), [R code](https://survival-org.github.io/DL4Survival/)
+
+* 2017 *arXiv* [Machine Learning for Survival Analysis: A Survey](https://arxiv.org/abs/1708.04649), [R code](https://github.com/MLSurvival)
+
 ## 4 Well-established risk prediction models
 
 ### 4.1 Framingham Heart Study risk scores

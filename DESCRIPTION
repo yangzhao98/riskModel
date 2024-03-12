@@ -10,8 +10,7 @@ License: GPL (>=2)
 Depends: R (>= 3.5.0)
 Imports: 
     survival,
-    mstate,
-    usethis
+    mstate
 Encoding: UTF-8
 LazyData: true
 Suggests: 
