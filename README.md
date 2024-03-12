@@ -192,4 +192,6 @@ The *riskModel* pkg is developed based on several publicly available packages an
 
 * 2020 *Eur Heart J* LIFE-CVD [Prediction of individualized lifetime benefit from cholesterol lowering, blood pressure lowering, antithrombotic therapy, and smoking cessation in apparently healthy people](https://doi.org/10.1093/eurheartj/ehz239)
 
+* 2023 *Chin Med J (Engl)* CKB PRS [Minimal improvement in coronary artery disease risk prediction in Chinese population using polygenic risk scores: evidence from the China Kadoorie Biobank](https://journals.lww.com/cmj/fulltext/2023/10200/minimal_improvement_in_coronary_artery_disease.10.aspx)
+
 * 2024 *Eur Heart J* CVD risk communication [Cardiovascular disease risk communication and prevention: a meta-analysis](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehae002/7578334?login=false)
