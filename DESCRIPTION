@@ -7,10 +7,23 @@ Author: Zhao Yang
 Maintainer: Zhao Yang <yangz98@connect.hku.hk>
 Description: Develop and validate the preformance of exist or newly developed risk prediction models in R.
 License: GPL (>=2)
-Depends: R (>= 3.5.0)
+Depends: 
+    R (>= 3.5.0),
+    usethis
 Imports: 
     survival,
-    mstate
+    mstate,
+    dplyr,
+    riskRegression,
+    pec,
+    rms,
+    stats,
+    utils,
+    Hmisc,
+    cmprsk,
+    data.table,
+    geepack,
+    stringr
 Encoding: UTF-8
 LazyData: true
 Suggests: 

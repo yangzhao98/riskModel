@@ -100,7 +100,7 @@ The *riskModel* pkg is developed based on several publicly available packages an
 
 ### 3.6 Multistate model
 
-* 2016 *Am J Epidemiol* [Multistate model to predict heart failure hospitalizations and all-cause mortality in outpatients with heart failure with reduced ejection fraction: Model derivation and external validation](https://www.ahajournals.org/doi/10.1161/CIRCHEARTFAILURE.116.003146)
+* 2016 *Circ Heart Fail* [Multistate model to predict heart failure hospitalizations and all-cause mortality in outpatients with heart failure with reduced ejection fraction: Model derivation and external validation](https://www.ahajournals.org/doi/10.1161/CIRCHEARTFAILURE.116.003146)
 
 ### 3.7 Deep learning 
 

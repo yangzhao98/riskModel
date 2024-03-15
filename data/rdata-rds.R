@@ -1,4 +1,5 @@
 ## code to prepare `rdata.rds` dataset goes here
+requireNamespace("usethis")
 
 rdata <- readRDS(paste(getwd(),"/rdata.rds",sep=""))
 usethis::use_data(rdata, overwrite = TRUE)
