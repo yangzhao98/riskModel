@@ -108,6 +108,17 @@ The *riskModel* pkg is developed based on several publicly available packages an
 
 * 2017 *arXiv* [Machine Learning for Survival Analysis: A Survey](https://arxiv.org/abs/1708.04649), [R code](https://github.com/MLSurvival)
 
+### 3.8 Automatic machine learning 
+
+* 2022 *BMC Med Res Methodol* [Survival prediction models: an introduction to discrete-time modeling](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01679-6), [R code](https://github.com/ksuresh17/autoSurv)
+
+
+### 3.9 Risk model presentations
+
+* 2004 *Stat Med* [Presentation of multivariate data for clinical use: The Framingham Study risk score functions](https://onlinelibrary.wiley.com/doi/10.1002/sim.1742https://onlinelibrary.wiley.com/doi/10.1002/sim.1742)
+
+* 2016 *Korean J Radiol* [How to Develop, Validate, and Compare Clinical Prediction Models Involving Radiological Parameters: Study Design and Statistical Methods](https://www.kjronline.org/DOIx.php?id=10.3348/kjr.2016.17.3.339)
+
 ## 4 Well-established risk prediction models
 
 ### 4.1 Framingham Heart Study risk scores
